@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">aboutMe</string>
+    <string name="yellow_star">yellow star</string>
+    <string name="bio"> Hi my name is Schultz Henry S. Boado \n
+                        I like to play valorant and playing a guitar \n
+                        when my free time I invest my time to learn a programming I watch
+        tutorials on youtube and read in google
+    </string>
+</resources>
